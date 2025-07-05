@@ -61,11 +61,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ▶ **Run the App**
+
 In VS Code terminal or command prompt:
 
 streamlit run app.py
 
 **Sample Prompts**
+
 Try these in the app:
 
 “In a hidden valley where dragons once ruled, a young shepherd discovers an ancient egg.”
